@@ -1,58 +1,94 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Jiahe Guo 郭家合"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/) and [Prof. Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN). My current research primarily focuses on the efficient, effective, and scalable post-training of large language models (LLMs), with particular attention to its applications in:
 
-<span class='anchor' id='about-me'></span>
+- Continual Learning
+- Efficient (Adaptive) Reasoning
+- Safety Alignment
+- Multilingual Enhancement
+- Emotional Dialogue Systems
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## Education
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- Sept 2021 - Jul 2026 (Expected). Ph.D student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
+- Sept 2017 - Jul 2021. B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](http://www.neu.edu.cn).
 
+## Main Publications
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Continual Learning
 
-# 📝 Publications 
+1. **Weixiang Zhao**, Xingyu Sui, Yulin Hu, Jiahe Guo, Haixiao Liu, Biye Li, Yanyan Zhao, Bing Qin, Ting Liu. *Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment.* <u>NeurIPS 2025</u>. [[paper]](https://arxiv.org/pdf/2505.15456)
+2. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295) [[repo]](https://github.com/circle-hit/SAPT)
+3. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Efficient (Adaptive) Reasoning
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. <u>arXiv:2506.15647</u>. [[paper]](https://arxiv.org/pdf/2506.15647?)
+2. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>arXiv:2503.17979</u>. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Safety Alignment
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+1. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
+2. **Weixiang Zhao**˟, Yulin Hu˟, Yang Deng, Jiahe Guo, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* <u>ACL 2025 (Main)</u>. [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
+3. **Weixiang Zhao**˟, Jiahe Guo˟, Yulin Hu, Yang Deng, An Zhang, Xingyu Sui, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* <u>EMNLP 2025 (Main, Oral)</u>. [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
+4. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
+5. **Weixiang Zhao**, Yulin Hu, Xingyu Sui, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che. *The Gains Do not Make Up for the Losses: A Comprehensive Evaluation for Safety Alignment of Large Language Models via Machine Unlearning.* <u>Frontiers of Computer Science</u>.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Multilingual Enhancement
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* <u>NeurIPS 2025 (🌟Spotlight - Top 3.2% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.15257)
+2. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>.
+3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>ACL 2025 (Findings)</u>. [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Emotional Dialogue Systems
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+1. **Weixiang Zhao**˟, Xingyu Sui˟, Xinyang Han, Yang Deng, Yulin Hu, Jiahe Guo, Libo Qin, Qianyun Du, Shijin Wang, Yanyan Zhao, Bing Qin, Ting Liu. *Chain of Strategy Optimization Makes Large Language Models Better Emotional Supporter.* <u>EMNLP 2025 (Findings)</u>. [[paper]](https://arxiv.org/pdf/2503.05362) [[repo]](https://github.com/XingYuSSS/CSO)
+2. **Weixiang Zhao**, Shilong Wang, Yanpeng Tong, Xin Lu, Zhuojun Li, Yanyan Zhao, Chenxue Wang, Tian Zheng, Bing Qin. *A Parental Emotion Coaching Dialogue Assistant for Better Parent-Child Interaction*. <u>SCIENCE CHINA Information Sciences</u>. [[paper]](http://scis.scichina.com/en/2025/179101.pdf) [[repo]](https://github.com/HIT-SCIR-SC/QiaoBan)
+3. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness*. <u>ACL 2023 (Findings)</u>. [[paper]](https://arxiv.org/abs/2210.03884) [[repo]](https://github.com/circle-hit/EmpSOA)
+4. **Weixiang Zhao**, Yanyan Zhao, Shilong Wang, Bing Qin. *TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition*. <u>ACL 2023 (Findings)</u>. [[paper]](https://arxiv.org/abs/2305.03296) [[repo]](https://github.com/circle-hit/TransESC)
+5. **Weixiang Zhao**, Yanyan Zhao, Zhuojun Li, Bing Qin. *Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment*. <u>AAAI 2023</u>. [[paper]](https://arxiv.org/abs/2212.02995) [[repo]](https://github.com/circle-hit/KBCIN)
+6. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations*. <u>IJCAI 2022</u>. [[paper]](https://www.ijcai.org/proceedings/2022/0628) [[repo]](https://github.com/circle-hit/CauAIN)
+7. **Weixiang Zhao**, Yanyan Zhao, Bing Qin. *MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations*. <u>COLING 2022</u>. [[paper]](https://aclanthology.org/2022.coling-1.612/) [[repo]](https://github.com/circle-hit/MuCDN)
+8. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin. *Is ChatGPT Equipped with Emotional Dialogue Capabilities?* <u>arXiv:2304.09582</u>. [[paper]](https://arxiv.org/abs/2212.02995)
+9. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414) [[repo]](https://github.com/luxinxyz/EDFC)
+10. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](https://aclanthology.org/2023.ccl-1.66.pdf)
+11. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
+12. Wenjia Yi, Yanyan Zhao, Jianhua Yuan, **Weixiang Zhao**, Bing Qin *Improving Affective Event Classification with Multi-Perspective Knowledge Injection*. <u>CCL 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- ## Talks
+
+- Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
+- Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
+- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
+- Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/) -->
+
+<!-- ## Services
+
+- Reviewer: ACL'24, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
+- Review Assistant: EMNLP'20, AAAI'21, COLING'20
+- Organizer:
+  - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
+  - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition) -->
+
+## Experiences
+
+- Oct 2024 - Now. Visiting Student. National University of Singapore, Singapore. Supervisor: Prof. Tat-Seng Chua. Mentor: Prof. Yang Deng and Prof. An Zhang.
+- Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China. Supervisor: Dr. Qing Yang.
+- Nov 2020 - Mar 2021. Intern. ByteDance, Beijing, China.
+- Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S. Supervisor: Dr. Yunkai Xiao and Prof. Ed Gehringer.
+
+## Selected Awards and Honors
+
+- **National Scholarship**, Harbin Institute of Technology, 2024
+- **Outstanding Student Paper**, Harbin Institute of Technology, 2022
+- **Second-Class Fresh-PhD Fellowship**, Harbin Institute of Technology, 2021
+- **Excellent Thesis**, Northeastern University, 2021
+- **National Scholarship**, Northeastern University, 2018&2019
