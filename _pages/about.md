@@ -36,7 +36,7 @@ In addition to my master's research, I participated in bioinformatics research d
 
 ### Reasoning Enhancement
 
-- 🏆 <span class="conference-tag">NeurIPS 2025 </span><span style="color:red">(🌟Spotlight - Top 3.2% of Submissions)</span>  Weixiang Zhao, **Jiahe Guo**, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* [[paper]](https://arxiv.org/pdf/2505.15257)
+- 🏆 <span class="conference-tag">NeurIPS 2025 </span><span style="color:red">(🌟Spotlight - Top 3.2% of Submissions)</span>  Weixiang Zhao\*, **Jiahe Guo**\*, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* [[paper]](https://arxiv.org/pdf/2505.15257)
 
 - <span class="conference-tag">arXiv:2506.15647</span> Weixiang Zhao, **Jiahe Guo**, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. [[paper]](https://arxiv.org/pdf/2506.15647?)
 
@@ -56,7 +56,7 @@ In addition to my master's research, I participated in bioinformatics research d
 
 ### Multilingual Enhancement
 
-- 🏆 <span class="conference-tag">NeurIPS 2025 </span><span style="color:red">(🌟Spotlight - Top 3.2% of Submissions)</span>  Weixiang Zhao, **Jiahe Guo**, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* [[paper]](https://arxiv.org/pdf/2505.15257)
+- 🏆 <span class="conference-tag">NeurIPS 2025 </span><span style="color:red">(🌟Spotlight - Top 3.2% of Submissions)</span>  Weixiang Zhao\*, **Jiahe Guo**\*, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* [[paper]](https://arxiv.org/pdf/2505.15257)
 - <span class="conference-tag">ACL 2025 (Findings)</span> Weixiang Zhao, Yulin Hu, **Jiahe Guo**, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 - 🏆 <span class="conference-tag">ACL 2025 </span><span style="color:red">(Main, 🌟Oral & Panel - Top 0.3% of Submissions)</span>  Weixiang Zhao, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, **Jiahe Guo**, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.*
 
