@@ -66,3 +66,7 @@ In addition to my master's research, I participated in bioinformatics research d
 1. <span class="conference-tag">Computers in Biology and Medicine</span> Shizheng Qiu\*, Yige Sun\*, **Jiahe Guo**\*, Yu Zhang, Yang Hu. *Genome-wide analysis reveals extensive genetic overlap between childhood phenotypes and later-life type 2 diabetes.*
 2. <span class="conference-tag">The Crop Journal</span> Anqi Zhang, Tangchao Kong, Baiquan Sun, Shizheng Qiu, **Jiahe Guo**, Shuyong Ruan, Yu Guo, Jirui Guo, Zhishuai Zhang, Yue Liu, Zheng Hu, Tao Jiang, Yadong Liu, Shuqi Cao, Shi Sun, Tingting Wu, Huilong Hong, Bingjun Jiang, Maoxiang Yang, Xiangyu Yao, Yang Hu, Bo Liu, Tianfu Han, Yadong Wang. *A telomere-to-telomere genome assembly of Zhonghuang 13, a widely-grown soybean variety from the original center of Glycine max.*
 3. <span class="conference-tag">Journal of Translational Medicine</span> Shizheng Qiu, Jianhua Liu, **Jiahe Guo**, Zhishuai Zhang, Yu Guo, Yang Hu. *COVID-19 infection and longevity: an observational and mendelian randomization study.*
+
+## Visitors Map
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zstpITw8e2LCrVoIzPP4uuSU-GE9uXNBfbV_w8CJKFM&cl=ffffff&w=a"></script>
