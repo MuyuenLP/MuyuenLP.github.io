@@ -30,16 +30,18 @@ In addition to my master's research, I participated in bioinformatics research d
 
 - <span class="conference-tag">AAAI 2026 </span> Weixiang Zhao\*, Xingyu Sui\*, **Jiahe Guo**\*, Yulin Hu\*, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
 
+- <span class="conference-tag">arXiv:2506.15647</span> Weixiang Zhao, **Jiahe Guo**, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. [[paper]](https://arxiv.org/pdf/2506.15647?)
+
+- <span class="conference-tag">ACL 2025 (Findings)</span> Weixiang Zhao, Yulin Hu, **Jiahe Guo**, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 
 ## Other Publications
+
 
 - <span class="conference-tag">ACL 2025 (Main)</span> Weixiang Zhao\*, Yulin Hu\*, Yang Deng, **Jiahe Guo**, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
 
 - <span class="conference-tag">arXiv:2405.13820</span> Weixiang Zhao, Yulin Hu, Zhuojun Li, Yang Deng, **Jiahe Guo**, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* [[paper]](https://arxiv.org/abs/2405.13820)
 
 - 🏆 <span class="conference-tag">ACL 2025 </span><span style="color:red">(Main, 🌟Oral & Panel - Top 0.3% of Submissions)</span>  Weixiang Zhao, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, **Jiahe Guo**, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
-
-- <span class="conference-tag">arXiv:2506.15647</span> Weixiang Zhao, **Jiahe Guo**, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. [[paper]](https://arxiv.org/pdf/2506.15647?)
 
 - <span class="conference-tag">2601.13722</span> Yulin Hu, Zimo Long, **Jiahe Guo**, Xingyu Sui, Xing Fu, Weixiang Zhao, Yanyan Zhao, Bing Qin. *OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents* [[paper]](https://arxiv.org/abs/2601.13722)
 
@@ -49,7 +51,8 @@ In addition to my master's research, I participated in bioinformatics research d
 
 - <span class="conference-tag">arXiv:2601.18700</span> Xingyu Sui, Yanyan Zhao, Yulin Hu, **Jiahe Guo**, Weixiang Zhao, Bing Qin. *TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent* [[paper]](https://arxiv.org/abs/2601.18700)
 
-- <span class="conference-tag">ACL 2025 (Findings)</span> Weixiang Zhao, Yulin Hu, **Jiahe Guo**, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
+
+
 ## Bioinformatics Publications (Undergraduate Research)
 
 - <span class="conference-tag">Computers in Biology and Medicine</span> Shizheng Qiu\*, Yige Sun\*, **Jiahe Guo**\*, Yu Zhang, Yang Hu. *Genome-wide analysis reveals extensive genetic overlap between childhood phenotypes and later-life type 2 diabetes.*

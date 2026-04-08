@@ -7,7 +7,24 @@
 <meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
+
+<!-- Publication venue tags in _pages/about.md (inline so it always applies; see also assets/css/main.scss) -->
+<style>
+.page__content span.conference-tag {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 700;
+  line-height: 1.35;
+  padding: 0.2em 0.55em;
+  margin: 0 0.35em 0.15em 0;
+  vertical-align: 0.08em;
+  color: #224b8d;
+  background-color: #e8edf6;
+  border: 1px solid #c5d3eb;
+  border-radius: 4px;
+}
+</style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
