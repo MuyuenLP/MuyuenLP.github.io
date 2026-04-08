@@ -107,3 +107,18 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Venue / journal label on publication list (e.g. about.md) */
+.conference-tag {
+    display: inline-block;
+    font-size: 0.78em;
+    font-weight: 700;
+    line-height: 1.35;
+    padding: 0.2em 0.55em;
+    margin: 0 0.35em 0.15em 0;
+    vertical-align: 0.08em;
+    color: $info-color;
+    background-color: mix(#fff, $info-color, 90%);
+    border: 1px solid mix(#fff, $info-color, 72%);
+    border-radius: 4px;
+}
