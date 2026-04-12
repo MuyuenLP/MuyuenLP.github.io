@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiahe Guo 郭家合"
-description              : "Jiahe Guo（郭家合）的个人学术主页：哈尔滨工业大学（HIT）社会计算与信息检索研究中心（SCIR）硕士生，研究方向包括负责任的人工智能、大模型安全与推理等。"
+description              : "Master's student at SCIR, Harbin Institute of Technology.\n哈尔滨工业大学SCIR实验室硕士生"
 url                      : "https://muyuenlp.github.io"
 baseurl                  : ""
 repository               : "MuyuenLP/MuyuenLP.github.io"
