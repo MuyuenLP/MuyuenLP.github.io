@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "**Jiahe Guo** 郭家合"
-excerpt: "About me"
+description: "Jiahe Guo（郭家合）的个人学术主页：哈尔滨工业大学 SCIR 硕士生，研究负责任 AI、大模型安全与推理、个性化智能体等。"
 author_profile: true
 redirect_from: 
   - /about/

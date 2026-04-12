@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahe Guo"
-description              : "Welcome to Jiahe Guo's official website."
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Jiahe Guo 郭家合"
+description              : "Jiahe Guo（郭家合）的个人学术主页：哈尔滨工业大学（HIT）社会计算与信息检索研究中心（SCIR）硕士生，研究方向包括负责任的人工智能、大模型安全与推理等。"
+url                      : "https://muyuenlp.github.io"
+baseurl                  : ""
+repository               : "MuyuenLP/MuyuenLP.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiahe Guo"
+  name             : "Jiahe Guo 郭家合"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "SCIR, Harbin Institute of Technology"
   location         : "Harbin, China"
