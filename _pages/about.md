@@ -32,32 +32,9 @@ In addition to my master's research, I participated in bioinformatics research d
 
 - <span class="conference-tag">arXiv:2506.15647</span> Weixiang Zhao, **Jiahe Guo**, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. [[paper]](https://arxiv.org/pdf/2506.15647?)
 
-- <span class="conference-tag">ACL 2025 (Findings)</span> Weixiang Zhao, Yulin Hu, **Jiahe Guo**, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
-
-## Other Publications
+- <span class="conference-tag">arXiv:2605.18104</span> **Jiahe Guo**, Xiangran Guo, Jiaxuan Chen, Weixiang Zhao, Yanyan Zhao, Yutai Hou, Qianchao Wang, Dandan Tu, Bing Qin. *Safety Geometry Collapse in Multimodal LLMs and Adaptive Drift Correction*. [[paper]](https://arxiv.org/abs/2605.18104?)
 
 
-- <span class="conference-tag">ACL 2025 (Main)</span> Weixiang Zhao\*, Yulin Hu\*, Yang Deng, **Jiahe Guo**, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
-
-- <span class="conference-tag">arXiv:2405.13820</span> Weixiang Zhao, Yulin Hu, Zhuojun Li, Yang Deng, **Jiahe Guo**, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* [[paper]](https://arxiv.org/abs/2405.13820)
-
-- 🏆 <span class="conference-tag">ACL 2025 </span><span style="color:red">(Main, 🌟Oral & Panel - Top 0.3% of Submissions)</span>  Weixiang Zhao, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, **Jiahe Guo**, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
-
-- <span class="conference-tag">2601.13722</span> Yulin Hu, Zimo Long, **Jiahe Guo**, Xingyu Sui, Xing Fu, Weixiang Zhao, Yanyan Zhao, Bing Qin. *OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents* [[paper]](https://arxiv.org/abs/2601.13722)
-
-- <span class="conference-tag">NeurIPS 2025</span> Weixiang Zhao, Xingyu Sui, Yulin Hu, **Jiahe Guo**, Haixiao Liu, Biye Li, Yanyan Zhao, Bing Qin, Ting Liu. *Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment.* [[paper]](https://arxiv.org/pdf/2505.15456)
-
-- <span class="conference-tag">EMNLP 2025 (Findings)</span> Weixiang Zhao\*, Xingyu Sui\*, Xinyang Han, Yang Deng, Yulin Hu, **Jiahe Guo**, Libo Qin, Qianyun Du, Shijin Wang, Yanyan Zhao, Bing Qin, Ting Liu. *Chain of Strategy Optimization Makes Large Language Models Better Emotional Supporter.* [[paper]](https://arxiv.org/pdf/2503.05362) [[repo]](https://github.com/XingYuSSS/CSO)
-
-- <span class="conference-tag">arXiv:2601.18700</span> Xingyu Sui, Yanyan Zhao, Yulin Hu, **Jiahe Guo**, Weixiang Zhao, Bing Qin. *TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent* [[paper]](https://arxiv.org/abs/2601.18700)
-
-
-
-## Bioinformatics Publications (Undergraduate Research)
-
-- <span class="conference-tag">Computers in Biology and Medicine</span> Shizheng Qiu\*, Yige Sun\*, **Jiahe Guo**\*, Yu Zhang, Yang Hu. *Genome-wide analysis reveals extensive genetic overlap between childhood phenotypes and later-life type 2 diabetes.*
-- <span class="conference-tag">The Crop Journal</span> Anqi Zhang, Tangchao Kong, Baiquan Sun, Shizheng Qiu, **Jiahe Guo**, Shuyong Ruan, Yu Guo, Jirui Guo, Zhishuai Zhang, Yue Liu, Zheng Hu, Tao Jiang, Yadong Liu, Shuqi Cao, Shi Sun, Tingting Wu, Huilong Hong, Bingjun Jiang, Maoxiang Yang, Xiangyu Yao, Yang Hu, Bo Liu, Tianfu Han, Yadong Wang. *A telomere-to-telomere genome assembly of Zhonghuang 13, a widely-grown soybean variety from the original center of Glycine max.*
-- <span class="conference-tag">Journal of Translational Medicine</span> Shizheng Qiu, Jianhua Liu, **Jiahe Guo**, Zhishuai Zhang, Yu Guo, Yang Hu. *COVID-19 infection and longevity: an observational and mendelian randomization study.*
 
 ## Visitors Map
 
