@@ -13,7 +13,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 - Trustworthy LLM/Agent
 - Reasoning Enhancement
 
-I am currently a research intern in the Foundation Model Capabilities Department at JD.com, where I work on **Agentic Mid-training**, and I was selected for the **Tech Genius Team (TGT) Program**.
+I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training**, and I was selected for the **Tech Genius Team (TGT) Program**.
 
 
 ## Education
