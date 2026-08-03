@@ -13,7 +13,9 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 - Trustworthy LLM/Agent
 - Reasoning Enhancement
 
-In addition to my master's research, I participated in bioinformatics research during my undergraduate studies, which has provided me with a strong foundation in computational and analytical techniques.
+I am currently a research intern in the Foundation Model Capabilities Department at JD.com, where I work on **Agentic Mid-training**, and I was selected for the **Tech Genius Team (TGT) Program**.
+
+
 ## Education
 
 - Aug 2026 - Present. A Ph.D. student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
@@ -34,8 +36,3 @@ In addition to my master's research, I participated in bioinformatics research d
 
 - <span class="conference-tag">arXiv:2605.18104</span> **Jiahe Guo**, Xiangran Guo, Jiaxuan Chen, Weixiang Zhao, Yanyan Zhao, Yutai Hou, Qianchao Wang, Dandan Tu, Bing Qin. *Safety Geometry Collapse in Multimodal LLMs and Adaptive Drift Correction*. [[paper]](https://arxiv.org/abs/2605.18104?)
 
-
-
-## Visitors Map
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zstpITw8e2LCrVoIzPP4uuSU-GE9uXNBfbV_w8CJKFM&cl=ffffff&w=a"></script>
