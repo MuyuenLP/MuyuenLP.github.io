@@ -1,24 +1,24 @@
 ---
 permalink: /
 title: "**Jiahe Guo** 郭家合"
-description: "Jiahe Guo（郭家合）的个人学术主页：哈尔滨工业大学 SCIR 硕士生，研究负责任 AI、大模型安全与推理、个性化智能体等。"
+description: "Jiahe Guo（郭家合）的个人学术主页：哈尔滨工业大学 SCIR 博士生，主要研究方向为Trustworthy LLM/Agent和Reasoning Enhancement"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 # **Jiahe Guo** **郭家合**
-Hello, I am a master's student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/). My current research primarily focuses on the development and implementation of Socially-Responsible AI, with particular attention to its applications in:
+Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval ([SCIR](http://ir.hit.edu.cn)) at [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), China. I am advised by [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan) and [Prof. Weixiang Zhao](https://circle-hit.github.io/). My current research primarily focuses on the development and implementation of Socially Responsible AI, with particular attention to its applications in:
 
-- Safety Alignment
+- Trustworthy LLM/Agent
 - Reasoning Enhancement
-- Personalized LLM&Agent
 
 In addition to my master's research, I participated in bioinformatics research during my undergraduate studies, which has provided me with a strong foundation in computational and analytical techniques.
 ## Education
 
-- Sept 2025 - . A master's student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/).
-- Sept 2021 - Jul 2025. B.Sc. in School of Future Technology, [Harbin Institute of Technology](https://www.hit.edu.cn/).
+- Aug 2026 - Present. A Ph.D. student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
+- Sept 2025 - Jul 2026. A master's student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
+- Sept 2021 - Jul 2025. B.Sc. in the School of Future Technology, [Harbin Institute of Technology](https://www.hit.edu.cn/).
 
 ## Selected Publications
 
