@@ -19,7 +19,7 @@ I am currently a research intern in the Foundation Model Capabilities Department
 ## Education
 
 - Aug 2026 - Present. A Ph.D. student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
-- Sept 2025 - Jul 2026. A master's student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
+- Sept 2025 - Jul 2026. A PhD student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
 - Sept 2021 - Jul 2025. B.Sc. in the School of Future Technology, [Harbin Institute of Technology](https://www.hit.edu.cn/).
 
 ## Selected Publications
