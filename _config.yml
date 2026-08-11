@@ -16,6 +16,17 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# MapMyVisitors real-time visitor map. After creating a widget at
+# https://mapmyvisitors.com/, copy the values from its generated script URL:
+# cl -> color, w -> widget, t -> theme (if present), d -> token. The token is
+# designed to be public because it is embedded in the website source.
+map_my_visitors:
+  enabled: true
+  color: "ffffff"
+  widget: "a"
+  theme: ""
+  token: "SMGzT1E6Bjb06nUe6rWaTyGRcCNLDp38Bj9_9WEH1iY"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
