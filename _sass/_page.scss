@@ -118,6 +118,21 @@
   }
 }
 
+/* MapMyVisitors is inserted into the main content column, rather than across
+   the full viewport. The external widget may render an image or an iframe. */
+.page__visitor-map {
+  max-width: 100%;
+  margin-top: 2em;
+  overflow-x: auto;
+
+  iframe,
+  img,
+  object {
+    display: block;
+    max-width: 100% !important;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

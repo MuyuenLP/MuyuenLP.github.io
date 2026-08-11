@@ -1,7 +1,9 @@
 {% assign map_my_visitors = site.map_my_visitors %}
 {% if page.map_my_visitors != false and map_my_visitors.enabled and map_my_visitors.token != blank %}
+<div class="page__visitor-map" aria-label="Visitor map">
 <!-- MapMyVisitors: values mirror the embed code generated for this site. -->
 <script
   id="mapmyvisitors"
   src="https://mapmyvisitors.com/map.js?d={{ map_my_visitors.token | uri_escape }}&amp;cl={{ map_my_visitors.color | default: 'ffffff' | uri_escape }}&amp;w={{ map_my_visitors.widget | default: 'a' | uri_escape }}{% if map_my_visitors.theme != blank %}&amp;t={{ map_my_visitors.theme | uri_escape }}{% endif %}"></script>
+</div>
 {% endif %}
