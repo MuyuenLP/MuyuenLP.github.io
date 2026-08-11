@@ -118,18 +118,33 @@
   }
 }
 
-/* MapMyVisitors is inserted into the main content column, rather than across
-   the full viewport. The external widget may render an image or an iframe. */
+/* MapMyVisitors injects global styles, so keep it outside the article. Its
+   inner wrapper uses the same grid columns as the text content. */
 .page__visitor-map {
+  @include container;
+  @include clearfix;
+  clear: both;
   max-width: 100%;
   margin-top: 2em;
-  overflow-x: auto;
+  padding-right: 1em;
+  padding-left: 1em;
 
-  iframe,
-  img,
-  object {
-    display: block;
-    max-width: 100% !important;
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  &__inner {
+    overflow: hidden;
+
+    @include breakpoint($large) {
+      @include span(10 of 12 last);
+      @include prefix(0.5 of 12);
+      @include suffix(0 of 12);
+    }
+
+    #mapmyvisitors-widget {
+      max-width: 100%;
+    }
   }
 }
 

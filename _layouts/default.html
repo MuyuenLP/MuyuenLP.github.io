@@ -23,9 +23,14 @@ layout: compress
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
-          {% include map-my-visitors.html %}
         </div>
       </article>
+    </div>
+
+    <div class="page__visitor-map" aria-label="Visitor map">
+      <div class="page__visitor-map__inner">
+        {% include map-my-visitors.html %}
+      </div>
     </div>
 
     {% include scripts.html %}
