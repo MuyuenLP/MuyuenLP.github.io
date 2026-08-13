@@ -13,7 +13,11 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 - Trustworthy LLM/Agent
 - Reasoning Enhancement
 
-I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training and Post-training**, and I was selected for the **Tech Genius Team (TGT) Program**.
+I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training and Post-training**.
+
+**Selected Programs & Fellowships**
+- **Tech Genius Team (TGT) Program**, JD.com
+- **2026 Hunyuan Fellowship**, CIE × Tencent (2026 混元学者 / 中国电子学会—腾讯 博士生科研激励计划混元专项)
 
 
 ## Education
