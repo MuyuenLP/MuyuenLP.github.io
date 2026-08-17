@@ -16,14 +16,14 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training and Post-training**.
 
 **Selected Programs & Fellowships**
-- **Tech Genius Team (TGT) Program**, JD.com
+- **Tech Genius Team (TGT) Program**, JD.com (京东顶尖青年技术天才计划（TGT项目）)
 - **2026 Hunyuan Fellowship**, CIE × Tencent (2026 混元学者 / 中国电子学会—腾讯 博士生科研激励计划混元专项)
 
 
 ## Education
 
 - Aug 2026 - Present. A Ph.D. student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
-- Sept 2025 - Jul 2026. A PhD student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
+- Sept 2025 - Jul 2026. A Master's student in [SCIR](http://ir.hit.edu.cn), Department of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](https://homepage.hit.edu.cn/yanyan).
 - Sept 2021 - Jul 2025. B.Sc. in the School of Future Technology, [Harbin Institute of Technology](https://www.hit.edu.cn/).
 
 ## Selected Publications
