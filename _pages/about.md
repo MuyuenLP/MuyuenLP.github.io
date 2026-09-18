@@ -16,7 +16,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training and Post-training**.
 
 **Selected Programs & Fellowships**
-- **Tech Genius Team (TGT) Program**, JD.com (京东顶尖青年技术天才计划（TGT项目）)
+- **Tech Genius Team (TGT) Program**, JD.com (京东 顶尖青年技术天才计划 （TGT项目）)
 - **2026 Hunyuan Fellowship**, CIE × Tencent (2026 混元学者 / 中国电子学会—腾讯 博士生科研激励计划混元专项)
 
 
@@ -28,7 +28,7 @@ I am currently a research intern in the Foundation Model Capabilities Department
 
 ## Selected Publications
 
-- <span class="conference-tag">ACL 2026 </span><span style="color:red">(Main, Top 0.7% OA of Submissions)</span>  **Jiahe Guo**, Xiangran Guo, Yulin Hu, Zimo Long, Xingyu Sui, Xuda Zhi, Yongbo Huang, Hao He, Weixiang Zhao, Yanyan Zhao, Bing Qin. *When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents* [[paper]](https://www.arxiv.org/abs/2601.17887)
+- <span class="conference-tag">ACL 2026 </span><span style="color:red">(Main, Oral)</span>  **Jiahe Guo**, Xiangran Guo, Yulin Hu, Zimo Long, Xingyu Sui, Xuda Zhi, Yongbo Huang, Hao He, Weixiang Zhao, Yanyan Zhao, Bing Qin. *When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents* [[paper]](https://www.arxiv.org/abs/2601.17887)
 
 - 🏆 <span class="conference-tag">NeurIPS 2025 </span><span style="color:red">(🌟Spotlight - Top 3.2% of Submissions)</span>  Weixiang Zhao\*, **Jiahe Guo**\*, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* [[paper]](https://arxiv.org/pdf/2505.15257)
 
