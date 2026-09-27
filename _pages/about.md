@@ -34,9 +34,9 @@ I am currently a research intern in the Foundation Model Capabilities Department
 
 - 🏆 <span class="conference-tag">EMNLP 2025 </span><span style="color:red">(Main, Oral)</span>  Weixiang Zhao\*, **Jiahe Guo**\*, Yulin Hu, Yang Deng, An Zhang, Xingyu Sui, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
 
-- <span class="conference-tag">AAAI 2026 </span> Weixiang Zhao\*, Xingyu Sui\*, **Jiahe Guo**\*, Yulin Hu\*, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
+- 🏆 <span class="conference-tag">NeurIPS 2026 </span> **Jiahe Guo**, Xiangran Guo, Jiaxuan Chen, Weixiang Zhao, Yanyan Zhao, Yutai Hou, Qianchao Wang, Dandan Tu, Bing Qin. *Safety Geometry Collapse in Multimodal LLMs and Adaptive Drift Correction*. [[paper]](https://arxiv.org/abs/2605.18104?)
+
+- 🏆 <span class="conference-tag">AAAI 2026 </span> Weixiang Zhao\*, Xingyu Sui\*, **Jiahe Guo**\*, Yulin Hu\*, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
 
 - <span class="conference-tag">arXiv:2506.15647</span> Weixiang Zhao, **Jiahe Guo**, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. [[paper]](https://arxiv.org/pdf/2506.15647?)
-
-- <span class="conference-tag">arXiv:2605.18104</span> **Jiahe Guo**, Xiangran Guo, Jiaxuan Chen, Weixiang Zhao, Yanyan Zhao, Yutai Hou, Qianchao Wang, Dandan Tu, Bing Qin. *Safety Geometry Collapse in Multimodal LLMs and Adaptive Drift Correction*. [[paper]](https://arxiv.org/abs/2605.18104?)
 
