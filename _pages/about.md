@@ -15,9 +15,10 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 I am currently a research intern in the Foundation Model Capabilities Department at **JD.com**, where I work on **Agentic Mid-training and Post-training**.
 
-**Selected Programs & Fellowships**
+**Selected Programs & Awards**
 - **Tech Genius Team (TGT) Program**, JD.com (京东 顶尖青年技术天才计划 （TGT项目）)
 - **2026 Hunyuan Fellowship**, CIE × Tencent (2026 混元学者 / 中国电子学会—腾讯 博士生科研激励计划混元专项)
+- **2026 HIT AI Award (Shengsheng Buxi Award)**, Harbin Institute of Technology (哈尔滨工业大学人工智能“生生不息奖”，2026年仅15人入选)
 
 
 ## Education
